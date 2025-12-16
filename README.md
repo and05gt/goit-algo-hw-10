@@ -1,2 +1,3 @@
 # goit-algo-hw-10
-Linear programming and randomized algorithms
+
+## Linear programming and randomized algorithms
